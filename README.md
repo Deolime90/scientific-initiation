@@ -8,4 +8,6 @@ Orientador: PhD Edgard Almeida Pimentel, Economia Financeira e Análise de Ondal
 Bolsa PIBIC / CNPQ.
 
 Resumo IC: http://www.puc-rio.br/ensinopesq/ccpg/pibic/relatorio_resumo2019/download/resumos/CTC/MAT/MAT-5031_Deyvidy Lua de Oliveira Melo.pdf
+
+
 Relatório Completo IC: http://www.puc-rio.br/pibic/relatorio_resumo2019/download/relatorios/CTC/MAT/MAT-Deyvidy Lua de Oliveira Melo.pdf
