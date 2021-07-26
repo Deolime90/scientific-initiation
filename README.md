@@ -1,5 +1,5 @@
-# scientific-initiation
-scientific initiation program
+# Undergraduate Research
+scientific program by CNPQ
 
 
 Iniciação Científica: (Departamento de Matemática – Pontifícia Universidade Católica do Rio de Janeiro - PUC-Rio, 
